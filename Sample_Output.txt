@@ -1,0 +1,34 @@
+Sample run (illustrative)
+
+Welcome to Student Result Management System
+
+1. Calculate student result
+2. Exit
+Choose an option (1/2): 1
+
+--- Enter Student Details ---
+Student name: Asha Patil
+Roll number: 34
+Enter marks for Python (0-100): 88
+Enter marks for Mathematics (0-100): 76
+Enter marks for Computer Networks (0-100): 81
+Enter marks for Database Systems (0-100): 90
+Enter marks for English (0-100): 85
+
+==========================================
+             STUDENT RESULT
+==========================================
+Name       : Asha Patil
+Roll number: 34
+------------------------------------------
+Python                     88.0/100
+Mathematics                76.0/100
+Computer Networks          81.0/100
+Database Systems           90.0/100
+English                    85.0/100
+------------------------------------------
+Total      : 420.0/500
+Percentage : 84.00%
+Grade      : A
+Result     : PASS
+==========================================
